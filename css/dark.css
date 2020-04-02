@@ -1,0 +1,34 @@
+
+.dark-mode{
+  background-image: url('../img/gaming.jpg');
+  background-attachment: fixed;
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dark-mode .navbar{
+	background-color: #2d2e2e;
+}
+.dark-mode .navbar .nickname{
+	color: white;
+}
+.dark-mode .navlogo2{
+	background-color: white;
+	margin-left: 10px;
+	rotate : 2px;
+}
+.dark-mode .isi {
+	background-color: #474747;
+	color: white;
+	box-shadow: 0 0 20px #ff0000;
+}
+
+.dark-mode .footer{
+	background-color: #2d2e2e;
+	color: white;
+}
+
+.dark-mode .modal-body .tombol{
+	background-color: black;
+	border-color: black; 
+}

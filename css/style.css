@@ -1,0 +1,76 @@
+html body{
+	background-color: white;
+}
+.navbar {
+	background-color:  #f9f9f9;
+}
+.navbar .nickname{
+	color: black;
+}
+.modal-body .tombol1{
+	color: white;
+}
+.modal-body .tombol2{
+	color: black;
+}
+.isi{
+	padding-bottom: 10px;
+	box-shadow: 0 0 20px #7d807e;
+	background-color: #faf7f7;
+}
+.isi .input{
+	height: 5vw;
+	width: 50vw;
+	background-color: white;
+}
+.isi .input:hover {
+	box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.4);
+	
+}
+.logo{
+	width: 200px;
+}
+.navlogo{
+	width: 30px;
+	height: 30px;
+}
+.navlogo2{
+	margin-left: 10px;
+}
+.footer{
+	margin-top: 90px;
+	padding: 2.5rem 0;
+	color: #999;
+	text-align: center;
+	background-color: #f9f9f9;
+	border-top: .05rem solid #e5e5e5;
+}
+.footer img{
+	width: 150px;
+	height: 150px;
+}
+.simbol{
+	width: 30px;
+}
+
+.modal-body .jumbotron{
+	background-image: url('../img/gaming.jpg');
+	background-attachment: fixed;
+}
+
+#exampleModalScrollable .modal-title{
+	color: white;
+}
+.modal-body .text{
+	color: white;
+}
+#exampleModalScrollable .modal-header, #exampleModalScrollable .modal-footer{
+	background-color: #1f1e1d;
+
+}
+#exampleModalScrollable .close{
+	color: white;
+}
+#txt1 {
+	border: none;
+}
